@@ -22,3 +22,6 @@ MD : Multiplication and Division have the same precedence which is higher than A
 Operators with the same precedence are evalulated from left to right. Exemple: 5-3-1 = 1 not 3
 
 
+I also reviewed List,Strings, tupels
+
+
